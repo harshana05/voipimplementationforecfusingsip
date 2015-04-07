@@ -1,0 +1,3 @@
+This project contains the source code of VoIP provider and SIP protocol implementation for Eclipse Communication Framework inEclipse Foundation with Eclipse Public License.
+
+If you are adopting this project please make sure to make a note at [Eclipse project wiki page](http://wiki.eclipse.org/SIP_Voip_implementation_For_ECF#Project_Adopters). It will help us to improve this product more user friendly.
